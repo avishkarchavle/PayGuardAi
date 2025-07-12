@@ -204,4 +204,7 @@ Update documentation as needed
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Live - https://claude.ai/public/artifacts/87209036-90b2-4582-8059-49c7897bd500 
+Live demo initial phase - https://claude.ai/public/artifacts/87209036-90b2-4582-8059-49c7897bd500 
+Clone and start for end to end chart enabled experience 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/57e45550-5dba-4aae-8c9d-94ffcf22ea24" />
+
