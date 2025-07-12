@@ -208,3 +208,9 @@ Live demo initial phase - https://claude.ai/public/artifacts/87209036-90b2-4582-
 Clone and start for end to end chart enabled experience 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/57e45550-5dba-4aae-8c9d-94ffcf22ea24" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/883849a6-8ae8-4c77-8255-7db47d43066c" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4b392e3-66a6-4440-8081-4b80de9b50e0" />
+
+
+
